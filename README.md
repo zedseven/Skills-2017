@@ -1,4 +1,6 @@
 # Skills-2017
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 This is the file archive for the 2017 Skills Canada autonomous competition.
 
 This competition involved picking up miniature foam footballs and delivering them to the other side of the arena - the problem spec is [here](http://www.skillsontario.com/index.php?p=download&file=552).
